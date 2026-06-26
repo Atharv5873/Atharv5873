@@ -1,7 +1,7 @@
   <div align="center">
 
   <!-- Matrix Digital Rain -->
-  <img src="./assets/matrix-rain.svg" width="100%"/>
+  <img src="./assets/matrix-rain.gif" width="100%"/>
 
   <!-- Name Header -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003b00,100:000000&height=160&section=header&text=Atharv%20Sharma&fontSize=58&fontColor=00ff41&fontAlignY=45&desc=Backend%20%7C%20Cloud%20%7C%20Agentic%20AI%20%7C%20Systems%20Engineer&descAlignY=68&descSize=18&descColor=39ff14&animation=fadeIn)
