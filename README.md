@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Atharv%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20Generative%20AI%20%7C%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=90e0ef&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Atharv%20Sharma&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20Agentic%20AI%20%7C%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=90e0ef&animation=fadeIn)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+things+that+think+for+themselves.;Multi-Agent+AI+%7C+LangGraph+%7C+RAG+Pipelines;Backend+Engineer+%7C+NestJS+%7C+PostgreSQL+%7C+GCS;Cloud-Native+%7C+AWS+%7C+Azure+%7C+Docker;1st+%40+HackathonX+%C2%B7+B.Tech+CS+%40+VIT+%2726)](https://git.io/typing-svg)
