@@ -1,10 +1,7 @@
-  <div align="center">
+<div align="center">
 
-  <!-- Matrix Digital Rain -->
-  <img src="./assets/matrix-rain.gif" width="100%"/>
-
-  <!-- Name Header -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003b00,100:000000&height=160&section=header&text=Atharv%20Sharma&fontSize=58&fontColor=00ff41&fontAlignY=45&desc=Backend%20%7C%20Cloud%20%7C%20Agentic%20AI%20%7C%20Systems%20Engineer&descAlignY=68&descSize=18&descColor=39ff14&animation=fadeIn)
+  <!-- Matrix Digital Rain + Name Banner (combined) -->
+  <img src="https://raw.githubusercontent.com/Atharv5873/Atharv5873/main/assets/matrix-rain.gif" width="100%"/>
 
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+--+Atharv+Sharma;%3E+Building+agents+that+think+for+themselves;%3E+Multi-Agent+AI+%7C+LangGraph+%7C+RAG+Pipelines;%3E+NestJS+%7C+PostgreSQL+%7C+AWS+%7C+Azure+%7C+GCS;%3E+1st+%40+HackathonX+%7C+VIT+CS+%2726;%24+status%3A+open_to_work+%3D+true)](https://git.io/typing-svg)
