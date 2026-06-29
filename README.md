@@ -30,13 +30,13 @@
 
 <!-- ░░░ SOCIAL / CONTACT BADGES ░░░ -->
 <!-- TODO(Atharv): replace YOUR-LINKEDIN and YOUR-PORTFOLIO below -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/atharv-sharma-a3b6a0251/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000"/>
 </a>
-<a href="mailto:atharvs@rbpfinivis.com">
+<a href="mailto:atharv5873@gmail.com">
   <img src="https://img.shields.io/badge/Email-Ping_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/>
 </a>
-<a href="https://YOUR-PORTFOLIO.com">
+<a href="https://atharv-sharma-xi.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Enter-00FF41?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=000000"/>
 </a>
 
